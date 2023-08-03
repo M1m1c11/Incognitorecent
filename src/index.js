@@ -9,7 +9,7 @@ import { hostname } from "node:os";
 
 import serveStatic from "serve-static";
 import serveIndex from "serve-index";
-import connect from "connect";
+import connect from "/connect";
 import analytics from "./analytics.js";
 
 // The following message MAY NOT be removed
