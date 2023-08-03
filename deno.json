@@ -5,6 +5,6 @@
     "body-parser": "^1.20.2",
     "connect": "https://deno.land/std@0.168.0/node/connect.ts",
     "serve-index": "https://deno.land/std@0.168.0/node/serve-index.ts",
-    "serve-static": "^1.15.0"
+    "serve-static": "https://deno.land/std@0.168.0/node/serve-static.ts"
   }
 }
