@@ -1,8 +1,8 @@
 {
   "imports": {
     "@titaniumnetwork-dev/ultraviolet": "https://deno.land/std@0.168.0/node/@titaniumnetwork-dev/ultraviolet.ts",
-    "@tomphttp/bare-server-node": "^1.2.5",
-    "body-parser": "^1.20.2",
+    "@tomphttp/bare-server-node": "https://deno.land/std@0.168.0/node/@tomphttp/bare-server-node.ts",
+    "body-parser": "https://deno.land/std@0.168.0/node/body-parser.ts",
     "connect": "https://deno.land/std@0.168.0/node/connect.ts",
     "serve-index": "https://deno.land/std@0.168.0/node/serve-index.ts",
     "serve-static": "https://deno.land/std@0.168.0/node/serve-static.ts"
